@@ -1,0 +1,28 @@
+<html>
+    <style>
+
+head{
+    background-color: blue;
+}
+
+h1{
+    background: red;
+    text-align: center;
+}
+
+    </style>
+<head>
+    <h1>
+        titulo de toda esta pagina
+    </h1>
+</head>
+
+<body>
+    <h2>
+
+        la prueba de que D es la mejor y es H
+
+    </h2>
+</body>
+
+</html>
